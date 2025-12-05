@@ -1,1 +1,2 @@
 Squash commit 1
+Squash commit 2
